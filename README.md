@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my skills, experience, and projects as a **Full Stack Developer**.  
 The portfolio is built with a focus on clean UI, responsiveness, and real-world project presentation.
 
-🔗 **Live Demo:** https://ramya-portfolio.netlify.app  
+🔗 **Live Demo:** https://ramya-portfolio-profile.netlify.app  
 📄 **Resume:** Available on the website  
 
 ---
