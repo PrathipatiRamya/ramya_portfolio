@@ -94,6 +94,26 @@ p {
   margin: 15px auto 0;
 }
 
+.home-section {
+  padding: 120px 20px 80px;
+  text-align: center;
+  background: linear-gradient(180deg, rgba(79, 70, 229, 0.05), transparent);
+}
+
+.primary-btn {
+  background: var(--link-color);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+.secondary-btn {
+  border: 1px solid var(--link-color);
+  color: var(--link-color);
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
 /* ================================
    LINKS & BUTTONS
 ================================ */
@@ -259,5 +279,26 @@ li {
   .navbar-menu li a {
     color: #fff;
     font-size: 16px;
+  }
+}
+
+.hero-buttons {
+  margin-top: 25px;
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
+
+/* Mobile: stack buttons */
+@media (max-width: 480px) {
+  .hero-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hero-buttons a {
+    width: 100%;
+    max-width: 240px;
+    text-align: center;
   }
 }

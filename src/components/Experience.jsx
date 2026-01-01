@@ -7,7 +7,7 @@ function Experience() {
         {/* Role */}
         <div style={styles.roleRow}>
           <h3>System Executive</h3>
-          <span style={styles.date}>Mar 2025 – Present</span>
+          <span style={styles.date}>Mar 2025 – Dec 2025</span>
         </div>
 
         <p style={styles.company}>Jhaishna Technologies Pvt Ltd</p>
