@@ -1,16 +1,82 @@
-# React + Vite
+# 🌐 Personal Portfolio – Prathipati Ramya Sri
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website showcasing my skills, experience, and projects as a **Full Stack Developer**.  
+The portfolio is built with a focus on clean UI, responsiveness, and real-world project presentation.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** https://ramya-portfolio.netlify.app  
+📄 **Resume:** Available on the website  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 👩‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am a detail-oriented IT professional with hands-on experience in **Linux-based application support** and **full-stack development**.  
+I have worked on real production systems and development projects using **Java, Spring Boot, React, Python (Flask)**, and relational databases.
 
-## Expanding the ESLint configuration
+I am actively seeking **Junior / Full Stack / Backend Developer** opportunities.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- ReactJS
+- HTML5, CSS3
+- JavaScript
+
+### Backend & APIs
+- Java
+- Spring Boot (REST APIs, Spring Data JPA, Microservices)
+- Python (Flask)
+
+### Databases
+- Oracle
+- PostgreSQL
+- MySQL
+- H2
+
+### Tools & Platforms
+- Git & GitHub
+- Netlify (Deployment)
+- Swagger, Postman
+- Linux
+
+---
+
+## 📂 Featured Projects
+
+### 🏥 Hospital Management System (REST API)
+- Developed RESTful APIs using **Spring Boot** and **Spring Data JPA**
+- Implemented full CRUD operations (GET, POST, PUT, PATCH, DELETE)
+- Integrated H2 databases
+- Tested APIs using Swagger and Postman
+
+### 🛒 E-commerce PR Mart
+- Online grocery marketplace built with **ReactJS**
+- Features include cart management, product search, coupons, and order history
+
+### 🧠 Hepatitis Disease Prediction (Machine Learning)
+- Machine learning model to predict **Hepatitis A–E**
+- Used **Decision Tree algorithm**
+- Trained on patient demographics and symptoms
+- Provided prediction results with suggested remedies
+
+
+---
+
+## 🚀 Features of This Portfolio
+
+- Fully responsive (desktop & mobile)
+- Smooth scroll and animations
+- Clean and professional UI
+- Deployed on Netlify
+
+---
+
+## 📦 Installation & Setup (Local)
+
+```bash
+git clone https://github.com/<your-username>/ramya-portfolio.git
+cd ramya-portfolio
+npm install
+npm run dev
